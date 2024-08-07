@@ -18,10 +18,6 @@
 		{
 			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
 		}
 	]
 }
